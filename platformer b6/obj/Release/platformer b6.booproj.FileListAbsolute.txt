@@ -1,0 +1,10 @@
+D:\sharpdevelop pjs\platformer b6\platformer b6\bin\Release\platformer b6.exe.config
+D:\sharpdevelop pjs\platformer b6\platformer b6\bin\Release\platformer b6.exe
+D:\sharpdevelop pjs\platformer b6\platformer b6\bin\Release\Boo.Lang.Useful.dll
+D:\sharpdevelop pjs\platformer b6\platformer b6\bin\Release\ConsolePaint.dll
+D:\sharpdevelop pjs\platformer b6\platformer b6\bin\Release\Boo.Lang.Compiler.dll
+D:\sharpdevelop pjs\platformer b6\platformer b6\bin\Release\Boo.Lang.dll
+D:\sharpdevelop pjs\platformer b6\platformer b6\bin\Release\Boo.Lang.Parser.dll
+D:\sharpdevelop pjs\platformer b6\platformer b6\obj\Release\platformer b6.booprojResolveAssemblyReference.cache
+D:\sharpdevelop pjs\platformer b6\platformer b6\obj\Release\platformer b6.exe
+D:\sharpdevelop pjs\platformer b6\platformer b6\bin\Release\modules\native\main\map.png
